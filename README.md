@@ -2,8 +2,7 @@
 
 A from-scratch **TF-IDF + cosine-similarity** retrieval system for Persian news articles, evaluated on queries and relevance judgements from the **Hamshahri** test collection.
 
-> Academic project — <COURSE NAME / UNIVERSITY / SEMESTER — fill in>
-> Author: <YOUR NAME>
+> Author: <danial moradi>
 
 ## Overview
 
