@@ -2,7 +2,7 @@
 
 A from-scratch **TF-IDF + cosine-similarity** retrieval system for Persian news articles, evaluated on queries and relevance judgements from the **Hamshahri** test collection.
 
-> Author: <danial moradi>
+> Author: 'danial moradi'
 
 ## Overview
 
