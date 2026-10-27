@@ -1,0 +1,407 @@
+=== System Evaluation ===
+
+Mean Precision@10 = 0.7680
+Mean Recall@10 = 0.3227
+Mean F1-score@10 = 0.3788
+MAP = 0.7441
+
+Query 1: بازسازي شهر زلزله زده بم
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-830506-029 - Similarity: 56.71% - Year: 2004
+2. HAM2-821017-065 - Similarity: 53.92% - Year: 2004
+3. HAM2-831005-128 - Similarity: 48.31% - Year: 2004
+4. HAM2-821007-088 - Similarity: 45.63% - Year: 2003
+5. HAM2-840818-157 - Similarity: 44.20% - Year: 2005
+--------------------------------------------------
+Query 10: بهره برداري از تونل رسالت
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-840705-124 - Similarity: 70.67% - Year: 2005
+2. HAM2-850427-078 - Similarity: 68.71% - Year: 2006
+3. HAM2-850413-063 - Similarity: 68.34% - Year: 2006
+4. HAM2-850323-081 - Similarity: 65.49% - Year: 2006
+5. HAM2-850328-121 - Similarity: 64.69% - Year: 2006
+--------------------------------------------------
+Query 11: نرخ بيكاري در ايران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-840902-069 - Similarity: 76.50% - Year: 2005
+2. HAM2-850427-045 - Similarity: 74.97% - Year: 2006
+3. HAM2-840430-063 - Similarity: 72.37% - Year: 2005
+4. HAM2-840913-123 - Similarity: 72.15% - Year: 2005
+5. HAM2-821228-029 - Similarity: 70.43% - Year: 2004
+--------------------------------------------------
+Query 12: روش هاي ترك سيگار
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-820526-075 - Similarity: 78.65% - Year: 2003
+2. HAM2-831013-144 - Similarity: 78.21% - Year: 2005
+3. HAM2-840422-098 - Similarity: 75.49% - Year: 2005
+4. HAM2-850412-010 - Similarity: 74.08% - Year: 2006
+5. HAM2-851111-033 - Similarity: 72.48% - Year: 2007
+--------------------------------------------------
+Query 13: يازدهمين نمايشگاه بين المللي كتاب
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-820818-127 - Similarity: 51.74% - Year: 2003
+2. HAM2-820810-064 - Similarity: 44.73% - Year: 2003
+3. HAM2-830207-076 - Similarity: 44.11% - Year: 2004
+4. HAM2-820812-092 - Similarity: 40.15% - Year: 2003
+5. HAM2-820817-060 - Similarity: 39.77% - Year: 2003
+--------------------------------------------------
+Query 14: فهرست فيلم هاي سينمايي پرفروش
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-820703-001 - Similarity: 51.01% - Year: 2003
+2. HAM2-820308-018 - Similarity: 48.81% - Year: 2003
+3. HAM2-830204-001 - Similarity: 47.78% - Year: 2004
+4. HAM2-850622-004 - Similarity: 44.30% - Year: 2006
+5. HAM2-850405-001 - Similarity: 43.51% - Year: 2006
+--------------------------------------------------
+Query 15: آثار باستاني تپه هگمتانه در همدان
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-811018-029 - Similarity: 63.02% - Year: 2003
+2. HAM2-850224-167 - Similarity: 62.24% - Year: 2006
+3. HAM2-850216-145 - Similarity: 58.36% - Year: 2006
+4. HAM2-850126-164 - Similarity: 49.32% - Year: 2006
+5. HAM2-850913-057 - Similarity: 38.78% - Year: 2006
+--------------------------------------------------
+Query 16: ميزان صادرات سالانه پسته
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-830812-103 - Similarity: 80.64% - Year: 2004
+2. HAM2-821112-014 - Similarity: 75.85% - Year: 2004
+3. HAM2-830401-048 - Similarity: 75.15% - Year: 2004
+4. HAM2-840903-007 - Similarity: 74.66% - Year: 2005
+5. HAM2-841027-002 - Similarity: 71.90% - Year: 2006
+--------------------------------------------------
+Query 17: اعدام قاچاقچيان در ايران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-860215-053 - Similarity: 41.42% - Year: 2007
+2. HAM2-841127-094 - Similarity: 39.28% - Year: 2006
+3. HAM2-840413-102 - Similarity: 17.78% - Year: 2005
+4. HAM2-841130-043 - Similarity: 17.59% - Year: 2006
+5. HAM2-820817-030 - Similarity: 15.35% - Year: 2003
+--------------------------------------------------
+Query 18: راه اندازي مترو تجريش
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-860127-076 - Similarity: 52.55% - Year: 2007
+2. HAM2-850522-069 - Similarity: 49.51% - Year: 2006
+3. HAM2-830507-016 - Similarity: 49.05% - Year: 2004
+4. HAM2-811011-051 - Similarity: 47.68% - Year: 2003
+5. HAM2-850620-066 - Similarity: 44.87% - Year: 2006
+--------------------------------------------------
+Query 19: فيلتر سايت هاي اينترنتي در ايران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-820230-015 - Similarity: 50.01% - Year: 2003
+2. HAM2-831024-138 - Similarity: 43.28% - Year: 2005
+3. HAM2-840608-109 - Similarity: 38.99% - Year: 2005
+4. HAM2-841011-106 - Similarity: 33.97% - Year: 2006
+5. HAM2-841018-082 - Similarity: 31.97% - Year: 2006
+--------------------------------------------------
+Query 2: برگزيدگان جشنواره فيلم فجر
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-850906-025 - Similarity: 56.86% - Year: 2006
+2. HAM2-811126-084 - Similarity: 55.38% - Year: 2003
+3. HAM2-811210-079 - Similarity: 55.27% - Year: 2003
+4. HAM2-820927-069 - Similarity: 55.11% - Year: 2003
+5. HAM2-850930-025 - Similarity: 54.78% - Year: 2006
+--------------------------------------------------
+Query 20: حمله كنندگان به كوي دانشگاه
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-830231-173 - Similarity: 35.56% - Year: 2004
+2. HAM2-820904-106 - Similarity: 35.41% - Year: 2003
+3. HAM2-820713-050 - Similarity: 33.34% - Year: 2003
+4. HAM2-840512-116 - Similarity: 31.86% - Year: 2005
+5. HAM2-821013-007 - Similarity: 22.51% - Year: 2004
+--------------------------------------------------
+Query 21: سدهاي خاكي ايران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-830410-074 - Similarity: 59.16% - Year: 2004
+2. HAM2-820324-042 - Similarity: 55.20% - Year: 2003
+3. HAM2-850120-138 - Similarity: 51.71% - Year: 2006
+4. HAM2-850219-140 - Similarity: 50.75% - Year: 2006
+5. HAM2-841116-084 - Similarity: 50.43% - Year: 2006
+--------------------------------------------------
+Query 22: طرح هاي بيابان زدايي
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-840326-037 - Similarity: 76.46% - Year: 2005
+2. HAM2-820231-002 - Similarity: 65.64% - Year: 2003
+3. HAM2-811117-094 - Similarity: 43.44% - Year: 2003
+4. HAM2-841222-154 - Similarity: 30.16% - Year: 2006
+5. HAM2-820620-010 - Similarity: 23.34% - Year: 2003
+--------------------------------------------------
+Query 23: اسطوره هاي ادبيات ايران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-830130-076 - Similarity: 81.62% - Year: 2004
+2. HAM2-840714-043 - Similarity: 71.38% - Year: 2005
+3. HAM2-820601-074 - Similarity: 42.13% - Year: 2003
+4. HAM2-841218-196 - Similarity: 32.08% - Year: 2006
+5. HAM2-820605-081 - Similarity: 28.28% - Year: 2003
+--------------------------------------------------
+Query 24: ميزان رشد جمعيت در ايران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-830424-068 - Similarity: 34.39% - Year: 2004
+2. HAM2-820218-048 - Similarity: 33.10% - Year: 2003
+3. HAM2-851206-044 - Similarity: 31.35% - Year: 2007
+4. HAM2-840814-048 - Similarity: 30.70% - Year: 2005
+5. HAM2-830422-042 - Similarity: 28.45% - Year: 2004
+--------------------------------------------------
+Query 25: آيين همسرداري در اسلام
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-841108-123 - Similarity: 24.87% - Year: 2006
+2. HAM2-841117-038 - Similarity: 18.02% - Year: 2006
+3. HAM2-840224-046 - Similarity: 17.50% - Year: 2005
+4. HAM2-840824-090 - Similarity: 14.77% - Year: 2005
+5. HAM2-820227-014 - Similarity: 13.92% - Year: 2003
+--------------------------------------------------
+Query 26: مديريت بهينه در صنعت برق
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-820516-052 - Similarity: 40.00% - Year: 2003
+2. HAM2-850121-135 - Similarity: 38.08% - Year: 2006
+3. HAM2-850121-063 - Similarity: 31.84% - Year: 2006
+4. HAM2-830727-086 - Similarity: 29.85% - Year: 2004
+5. HAM2-840330-029 - Similarity: 29.63% - Year: 2005
+--------------------------------------------------
+Query 27: صادرات محصولات پتروشيمي
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-820609-028 - Similarity: 72.55% - Year: 2003
+2. HAM2-811228-045 - Similarity: 71.29% - Year: 2003
+3. HAM2-820412-007 - Similarity: 69.06% - Year: 2003
+4. HAM2-820523-009 - Similarity: 68.57% - Year: 2003
+5. HAM2-821115-054 - Similarity: 60.53% - Year: 2004
+--------------------------------------------------
+Query 28: پيشگيري و درمان اعتياد
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-850725-030 - Similarity: 61.92% - Year: 2006
+2. HAM2-840516-059 - Similarity: 55.25% - Year: 2005
+3. HAM2-831211-011 - Similarity: 54.49% - Year: 2005
+4. HAM2-821116-065 - Similarity: 52.33% - Year: 2004
+5. HAM2-851118-031 - Similarity: 51.51% - Year: 2007
+--------------------------------------------------
+Query 29: اشتغال فارغ التحصيلان دانشگاه
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-820817-020 - Similarity: 67.23% - Year: 2003
+2. HAM2-850321-058 - Similarity: 63.09% - Year: 2006
+3. HAM2-840829-063 - Similarity: 59.19% - Year: 2005
+4. HAM2-850302-046 - Similarity: 51.31% - Year: 2006
+5. HAM2-821102-081 - Similarity: 50.41% - Year: 2004
+--------------------------------------------------
+Query 3: علل مرگ و مير نهنگ ها
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-830603-037 - Similarity: 58.24% - Year: 2004
+2. HAM2-840406-030 - Similarity: 51.34% - Year: 2005
+3. HAM2-841220-054 - Similarity: 50.78% - Year: 2006
+4. HAM2-840808-025 - Similarity: 42.59% - Year: 2005
+5. HAM2-821129-044 - Similarity: 31.21% - Year: 2004
+--------------------------------------------------
+Query 30: حمايت از ميراث فرهنگي و گردشگري كشور
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-851024-056 - Similarity: 69.64% - Year: 2007
+2. HAM2-821205-140 - Similarity: 66.56% - Year: 2004
+3. HAM2-820324-024 - Similarity: 64.27% - Year: 2003
+4. HAM2-840326-118 - Similarity: 63.02% - Year: 2005
+5. HAM2-820221-016 - Similarity: 63.01% - Year: 2003
+--------------------------------------------------
+Query 31: سرانه مصرف دارو در ايران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-820116-007 - Similarity: 53.65% - Year: 2003
+2. HAM2-851119-026 - Similarity: 45.90% - Year: 2007
+3. HAM2-830511-113 - Similarity: 42.84% - Year: 2004
+4. HAM2-840411-053 - Similarity: 42.51% - Year: 2005
+5. HAM2-811119-033 - Similarity: 40.80% - Year: 2003
+--------------------------------------------------
+Query 32: كنگره هاي صنايع غذايي در ايران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-820629-015 - Similarity: 74.70% - Year: 2003
+2. HAM2-830616-009 - Similarity: 51.12% - Year: 2004
+3. HAM2-830219-007 - Similarity: 46.18% - Year: 2004
+4. HAM2-850801-019 - Similarity: 45.77% - Year: 2006
+5. HAM2-850625-024 - Similarity: 45.45% - Year: 2006
+--------------------------------------------------
+Query 33: كتابخانه هاي ديجيتال
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-850225-074 - Similarity: 70.48% - Year: 2006
+2. HAM2-830213-020 - Similarity: 67.94% - Year: 2004
+3. HAM2-841204-097 - Similarity: 63.80% - Year: 2006
+4. HAM2-840219-030 - Similarity: 63.23% - Year: 2005
+5. HAM2-830221-068 - Similarity: 60.90% - Year: 2004
+--------------------------------------------------
+Query 34: آنفولانزاي مرغي
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-840724-058 - Similarity: 70.02% - Year: 2005
+2. HAM2-840728-117 - Similarity: 68.68% - Year: 2005
+3. HAM2-841217-117 - Similarity: 46.24% - Year: 2006
+4. HAM2-840527-086 - Similarity: 42.88% - Year: 2005
+5. HAM2-820216-010 - Similarity: 32.25% - Year: 2003
+--------------------------------------------------
+Query 35: نمايشگاه گل در تهران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-850114-131 - Similarity: 49.00% - Year: 2006
+2. HAM2-820812-092 - Similarity: 47.07% - Year: 2003
+3. HAM2-830517-032 - Similarity: 46.92% - Year: 2004
+4. HAM2-820622-009 - Similarity: 46.84% - Year: 2003
+5. HAM2-830420-078 - Similarity: 44.66% - Year: 2004
+--------------------------------------------------
+Query 36: كاهش خدمت سربازي
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-841004-006 - Similarity: 79.46% - Year: 2005
+2. HAM2-840214-019 - Similarity: 66.79% - Year: 2005
+3. HAM2-840628-041 - Similarity: 65.86% - Year: 2005
+4. HAM2-851128-024 - Similarity: 60.31% - Year: 2007
+5. HAM2-850616-136 - Similarity: 57.70% - Year: 2006
+--------------------------------------------------
+Query 37: خرس قطبي
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-840622-025 - Similarity: 85.87% - Year: 2005
+2. HAM2-840524-089 - Similarity: 70.10% - Year: 2005
+3. HAM2-830423-032 - Similarity: 64.61% - Year: 2004
+4. HAM2-850227-017 - Similarity: 62.87% - Year: 2006
+5. HAM2-820307-048 - Similarity: 50.00% - Year: 2003
+--------------------------------------------------
+Query 38: پيرواني در ليگ برتر
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-821221-118 - Similarity: 32.90% - Year: 2004
+2. HAM2-841028-152 - Similarity: 27.89% - Year: 2006
+3. HAM2-850424-087 - Similarity: 27.53% - Year: 2006
+4. HAM2-820714-080 - Similarity: 26.83% - Year: 2003
+5. HAM2-830228-115 - Similarity: 25.74% - Year: 2004
+--------------------------------------------------
+Query 39: صادرات فرش در ايران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-840928-005 - Similarity: 74.81% - Year: 2005
+2. HAM2-820528-062 - Similarity: 73.29% - Year: 2003
+3. HAM2-820806-016 - Similarity: 72.09% - Year: 2003
+4. HAM2-840217-001 - Similarity: 66.08% - Year: 2005
+5. HAM2-840602-084 - Similarity: 65.73% - Year: 2005
+--------------------------------------------------
+Query 4: راه هاي جلو گيري از ابتلا به ديابت
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-830825-082 - Similarity: 59.65% - Year: 2004
+2. HAM2-820823-037 - Similarity: 55.49% - Year: 2003
+3. HAM2-850507-021 - Similarity: 54.72% - Year: 2006
+4. HAM2-830812-087 - Similarity: 54.60% - Year: 2004
+5. HAM2-821202-019 - Similarity: 52.88% - Year: 2004
+--------------------------------------------------
+Query 40: قاچاق بنزين و گازوئيل از ايران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-811116-068 - Similarity: 52.36% - Year: 2003
+2. HAM2-830719-001 - Similarity: 51.82% - Year: 2004
+3. HAM2-840811-057 - Similarity: 48.14% - Year: 2005
+4. HAM2-850720-043 - Similarity: 45.91% - Year: 2006
+5. HAM2-821210-018 - Similarity: 45.90% - Year: 2004
+--------------------------------------------------
+Query 41: مرگ و مير ناشي از تصادفات جاده اي
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-850508-028 - Similarity: 65.47% - Year: 2006
+2. HAM2-850420-085 - Similarity: 62.42% - Year: 2006
+3. HAM2-850929-031 - Similarity: 57.18% - Year: 2006
+4. HAM2-830811-017 - Similarity: 54.63% - Year: 2004
+5. HAM2-830202-015 - Similarity: 52.01% - Year: 2004
+--------------------------------------------------
+Query 42: تاثير خواب در سلامتي
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-850718-021 - Similarity: 52.57% - Year: 2006
+2. HAM2-850325-017 - Similarity: 39.55% - Year: 2006
+3. HAM2-830316-046 - Similarity: 35.02% - Year: 2004
+4. HAM2-850703-069 - Similarity: 32.72% - Year: 2006
+5. HAM2-830312-019 - Similarity: 31.79% - Year: 2004
+--------------------------------------------------
+Query 43: حكيم ابولقاسم فردوسي
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-830226-119 - Similarity: 61.06% - Year: 2004
+2. HAM2-850916-004 - Similarity: 56.82% - Year: 2006
+3. HAM2-840225-125 - Similarity: 54.15% - Year: 2005
+4. HAM2-840311-149 - Similarity: 50.18% - Year: 2005
+5. HAM2-850225-030 - Similarity: 49.22% - Year: 2006
+--------------------------------------------------
+Query 44: آلودگي محيط زيست
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-830807-147 - Similarity: 73.13% - Year: 2004
+2. HAM2-840624-014 - Similarity: 64.97% - Year: 2005
+3. HAM2-840325-019 - Similarity: 64.65% - Year: 2005
+4. HAM2-820119-093 - Similarity: 63.70% - Year: 2003
+5. HAM2-820423-089 - Similarity: 63.10% - Year: 2003
+--------------------------------------------------
+Query 45: ناامني هاي پس از جنگ در عراق
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-821228-118 - Similarity: 47.27% - Year: 2004
+2. HAM2-820119-077 - Similarity: 40.39% - Year: 2003
+3. HAM2-851028-103 - Similarity: 39.04% - Year: 2007
+4. HAM2-831012-112 - Similarity: 37.53% - Year: 2005
+5. HAM2-830626-083 - Similarity: 36.54% - Year: 2004
+--------------------------------------------------
+Query 46: تسهيلات ازدواج جوانان
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-820821-021 - Similarity: 63.07% - Year: 2003
+2. HAM2-820817-058 - Similarity: 60.32% - Year: 2003
+3. HAM2-840516-005 - Similarity: 59.67% - Year: 2005
+4. HAM2-830208-146 - Similarity: 59.30% - Year: 2004
+5. HAM2-840326-038 - Similarity: 55.47% - Year: 2005
+--------------------------------------------------
+Query 47: سرانه مصرف آب آشاميدني
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-811119-033 - Similarity: 31.24% - Year: 2003
+2. HAM2-830122-131 - Similarity: 30.88% - Year: 2004
+3. HAM2-821220-097 - Similarity: 25.44% - Year: 2004
+4. HAM2-820710-013 - Similarity: 21.26% - Year: 2003
+5. HAM2-851214-034 - Similarity: 20.03% - Year: 2007
+--------------------------------------------------
+Query 48: سطح تحصيلات عالي
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-821104-011 - Similarity: 44.14% - Year: 2004
+2. HAM2-820528-115 - Similarity: 44.07% - Year: 2003
+3. HAM2-820719-028 - Similarity: 35.96% - Year: 2003
+4. HAM2-840704-017 - Similarity: 32.74% - Year: 2005
+5. HAM2-821209-013 - Similarity: 31.78% - Year: 2004
+--------------------------------------------------
+Query 49: گسل هاي فعال شمال تهران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-830312-011 - Similarity: 71.79% - Year: 2004
+2. HAM2-850219-007 - Similarity: 69.06% - Year: 2006
+3. HAM2-821014-053 - Similarity: 61.72% - Year: 2004
+4. HAM2-850503-074 - Similarity: 60.42% - Year: 2006
+5. HAM2-821016-102 - Similarity: 59.30% - Year: 2004
+--------------------------------------------------
+Query 5: انتخاب سرمربي تيم ملي فوتبال ايران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-840623-156 - Similarity: 54.00% - Year: 2005
+2. HAM2-830413-069 - Similarity: 53.60% - Year: 2004
+3. HAM2-830521-091 - Similarity: 50.57% - Year: 2004
+4. HAM2-850428-094 - Similarity: 50.36% - Year: 2006
+5. HAM2-830416-133 - Similarity: 50.19% - Year: 2004
+--------------------------------------------------
+Query 50: كمبود آب در تهران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-820116-042 - Similarity: 40.19% - Year: 2003
+2. HAM2-850421-014 - Similarity: 32.68% - Year: 2006
+3. HAM2-820710-013 - Similarity: 32.66% - Year: 2003
+4. HAM2-811022-001 - Similarity: 29.16% - Year: 2003
+5. HAM2-840409-157 - Similarity: 28.34% - Year: 2005
+--------------------------------------------------
+Query 6: آمار مبتلايان به ايدز در ايران
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-820908-064 - Similarity: 65.83% - Year: 2003
+2. HAM2-820904-074 - Similarity: 65.33% - Year: 2003
+3. HAM2-820911-014 - Similarity: 65.12% - Year: 2003
+4. HAM2-850908-101 - Similarity: 64.32% - Year: 2006
+5. HAM2-840422-005 - Similarity: 64.03% - Year: 2005
+--------------------------------------------------
+Query 7: عرضه سهام شركت ايران خودرو
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-850929-022 - Similarity: 52.23% - Year: 2006
+2. HAM2-820526-002 - Similarity: 49.27% - Year: 2003
+3. HAM2-820512-014 - Similarity: 48.67% - Year: 2003
+4. HAM2-830727-066 - Similarity: 48.27% - Year: 2004
+5. HAM2-851002-018 - Similarity: 47.69% - Year: 2006
+--------------------------------------------------
+Query 8: نفرات برگزيده كنكور سراسري
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-830401-088 - Similarity: 45.08% - Year: 2004
+2. HAM2-820717-058 - Similarity: 43.42% - Year: 2003
+3. HAM2-840406-005 - Similarity: 40.12% - Year: 2005
+4. HAM2-850522-058 - Similarity: 37.55% - Year: 2006
+5. HAM2-851207-026 - Similarity: 33.45% - Year: 2007
+--------------------------------------------------
+Query 9: جبران خسارات ناشي از خشكسالي
+Top-5 Retrieved Documents with Similarity and Year:
+1. HAM2-820424-059 - Similarity: 47.22% - Year: 2003
+2. HAM2-841112-156 - Similarity: 32.52% - Year: 2006
+3. HAM2-830803-100 - Similarity: 27.99% - Year: 2004
+4. HAM2-830602-090 - Similarity: 23.42% - Year: 2004
+5. HAM2-851126-087 - Similarity: 20.48% - Year: 2007
+--------------------------------------------------
